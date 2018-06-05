@@ -1,10 +1,7 @@
 /******************************************************************************
-
-Welcome to GDB Online.
-GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
-Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
-Code, Compile, Run and Debug online from anywhere in world.
-
+http://ekviraedu.com/
+Author: Aniket Pingley
+This is implementation for Singleton using CRTP
 *******************************************************************************/
 #include <stdio.h>
 #include <iostream>
